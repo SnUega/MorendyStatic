@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Circe';
+    src: url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/Circe-Bold.woff2') format('woff2'),
+        url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/Circe-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/Circe-ExtraLight.woff2') format('woff2'),
+        url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/Circe-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/Circe-ExtraBold.woff2') format('woff2'),
+        url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/Circe-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/Circe-Light.woff2') format('woff2'),
+        url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/Circe-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/Circe-Regular.woff2') format('woff2'),
+        url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/Circe-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/Circe-Thin.woff2') format('woff2'),
+        url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/Circe-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/InterTight-Regular.woff2') format('woff2'),
+        url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/InterTight-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Organetto-RegularExt';
+    src: url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/Organetto-RegularExt.woff2') format('woff2'),
+        url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/Organetto-RegularExt.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/InterTight-Regular.woff2') format('woff2'),
+        url('https://snuega.github.io/morenly/wp-content/themes/site/assets/fonts/InterTight-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
