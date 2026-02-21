@@ -1,4 +1,4 @@
-/**!
+﻿/**!
  * wp-color-picker-alpha
  *
  * Overwrite Automattic Iris for enabled Alpha Channel in wpColorPicker
