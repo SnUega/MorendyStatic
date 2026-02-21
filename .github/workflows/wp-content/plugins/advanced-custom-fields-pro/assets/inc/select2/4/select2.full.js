@@ -1,4 +1,4 @@
-﻿/*!
+/*!
  * Select2 4.0.13 + focus fix (https://github.com/select2/select2/pull/6044)
  * https://select2.github.io
  *
